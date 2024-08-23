@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import urllib.request
 import pandas as pd
-import datetime
+import datetime #날짜
 
 #[CODE 1]
 def hollys_store(result):
